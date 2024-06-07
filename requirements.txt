@@ -1,0 +1,2 @@
+python-dotenv==1.0.0    # for reading environment variables from .env file
+pysftp==0.2.9           # for sftp connection

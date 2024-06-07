@@ -1,7 +1,7 @@
 import sys
 import os
 import pysftp
-from io import BytesIO,StringIO
+from io import BytesIO, StringIO
 
 # RUN: python meta_communication_workshop.py test.py
 
